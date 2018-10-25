@@ -13,7 +13,7 @@ Das Programm soll in der Lage sein, den Flächeninhalt und den Umfang einiger g
 
 Folgende Figuren sollen berücksichtigt werden:
 
-- Dreieck (Seite1, Seite2, eingeschlossener Winkel) - Rechteck (Länge, Breite)
+- Triangle (Seite1, Seite2, eingeschlossener Winkel) - Rechteck (Länge, Breite)
 - Quadrat (Seite)
 - Ellipse (Hauptachse, Nebenachse)
 - Kreis (Radius).
